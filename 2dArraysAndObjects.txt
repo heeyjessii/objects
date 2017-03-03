@@ -62,5 +62,5 @@ ANSWER:for(var key in bear) {
 
 4. Access the object in the previous question to display "Grizzly Bear loves marshmallows" as a string concatenation.
 
-ANSWER:console.log(bear.firstName + " loves " + bear.favoriteFood );
+ANSWER:console.log(bear.firstName + bear.lastName + " loves " + bear.favoriteFood );
 
